@@ -1,5 +1,5 @@
 # Import 'wal' colors.
-include "colors-gtk2.rc"
+include "/home/manan/.cache/wal/colors-gtk2.rc"
 
 
 # Default Style
